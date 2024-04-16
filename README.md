@@ -2,21 +2,19 @@
 <h3 align="center">A passionate Data Specialist </h3>
 
 
-- 🔭 I’m currently a Emory University Master's student major in [Quantitative Theory and Methods(Data Science)](/https://quantitative.emory.edu/academics/masters/index.html/)
+- 🔭 I’m currently a **Emory University Master's student** major in [Quantitative Theory and Methods(Data Science)](/https://quantitative.emory.edu/academics/masters/index.html/)
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://junaidmalik.com/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/lornalyu?tab=repositories)
 
-- 📝 I regularly write articles on [My Blogs](https://blog.junaidmalik.com/)
+- 💬 Ask me about **Python, R, and SQL**
 
-- 💬 Ask me about **Nextjs, Reactjs, javascript**
+- 📫 How to reach me **ao.lyu@emory.edu**
 
-- 📫 How to reach me **onlyjunaid2002@gmail.com**
+- 📄 Know about my experiences [My Linkein](https://www.linkedin.com/in/ao-lyu-971840292?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwaI12iKBS86HuREf97xYkw%3D%3D)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1wfMcqehteKmGWPywoymZyIB_eGZDHTKc/view?usp=drive_link)
-
-- ⚡ Fun fact **I do what according to the need of hour**
+- ⚡ Fun fact I am also a photographer in [Instagram](https://www.instagram.com/lorna_lyu_photography?igsh=b25qOTliN2szNGUz&utm_source=qr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
